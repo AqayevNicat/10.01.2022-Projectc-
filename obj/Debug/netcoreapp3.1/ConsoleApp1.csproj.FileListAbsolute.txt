@@ -1,0 +1,14 @@
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Nicat\Desktop\P224\10.01.2022-Project\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

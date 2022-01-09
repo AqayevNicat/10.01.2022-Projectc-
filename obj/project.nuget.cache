@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+X7ZYqxPz+51jM9lEBJ3TDeEqxVTb5lUGykD0KaarYeOyrVuGvXw6Ncv4ENRCYRjyrNsSyz84pmWxob5ckb4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicat\\Desktop\\P224\\10.01.2022-Project\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
